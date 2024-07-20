@@ -4,6 +4,5 @@ public class TestingStatic {
         System.out.println("Olá");
         System.out.println("Olá");
 
-
     }
 }
